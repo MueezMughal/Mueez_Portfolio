@@ -12,14 +12,14 @@ Outside of engineering, I spend most of my time **hiking and skiing** across Alb
 
 ---
 
-### 🚗 Current Projects
+### Current Projects
 
 **Explore My Work:**  
 Please take a moment to **look through the various branches** in this repository to see detailed write-ups, images, and documentation of the projects I’ve worked on.  
 
 ---
 
-### 🧰 Technical Skills
+### Technical Skills
 - **Design & Simulation:** SolidWorks, ANSYS, Fusion 360, MATLAB  
 - **Programming & Data Analysis:** Python, C, LabVIEW, Excel, Power BI  
 - **Embedded Systems:** STM32, ESP32, Arduino, Circuit Design, Soldering  
@@ -28,11 +28,11 @@ Please take a moment to **look through the various branches** in this repository
 
 ---
 
-### 🌲 Outside the Lab
-When I’m not designing or coding, you’ll usually find me **hiking, skiing, or exploring trails around AB & BC**. I love working on projects that blend technical creativity with hands-on experience, whether that’s in the machine shop, on a mountain, or in the middle of a debugging session.
+### Outside the Engineering
+Outside of engineering, you’ll usually find me **hiking, skiing, or exploring trails around AB & BC**. I love working on projects that blend technical creativity with hands-on experience, whether that’s in the machine shop, on a mountain, or in the middle of a debugging session.
 
 ---
 
-📫 **Let’s Connect!**  
+**Let’s Connect!**  
 If you’d like to collaborate, discuss engineering, or just talk, feel free to reach out:  
 📧 **mueezmmughal7@gmail.com**
